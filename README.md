@@ -50,4 +50,8 @@ Last step: check from your
 
 http://127.0.0.1:8000
 
+Admin Credentials
+Email Id - saurabh.shukla03@gmail.com
+Password - saurabh018
+
 
